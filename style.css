@@ -1,0 +1,169 @@
+html {
+  font-size: 100%;
+}
+
+body {
+  width: 100%;
+  color: #24292e;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+.site-title {
+  margin-top: 80px;
+}
+.site-title a {
+  display: block;
+}
+.sec-title {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 65px;
+}
+#header {
+  max-width: 960px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 270px;
+  margin: 0 auto;
+  padding: 0 4%;
+}
+
+nav {
+  padding: 10px 0;
+  margin-left: 90px;
+}
+
+a {
+  margin-left: 30px;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  
+  
+}
+
+
+
+.mainvisual {
+
+  width: 100%;
+  max-width: 1920px;
+  height: 420px;
+  object-fit: cover;
+ 
+}
+
+h1 {
+ 
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 65px;
+}
+
+.about li:first-child {
+  margin-bottom: 30px;
+}
+
+.profile-text {
+  text-align: justify;
+}
+
+.inner {
+  max-width: 960px;
+  width: 857.6px;
+  margin: 0 auto 130px auto;
+  padding: 0 4%;
+}
+
+.works ul {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+.works li {
+  width: 31%;
+  margin-bottom: 23px;
+}
+
+
+
+hr {
+  width: 857.6px;
+}
+
+tr > th {
+  padding-right: 90px;
+}
+
+
+
+.contact dl {
+ display: flex;
+ flex-wrap: wrap;
+ margin-bottom: 20px;
+}
+
+.contact dt {
+  width: 15%;
+}
+
+.contact dd {
+  width: 85%;
+  margin-bottom: 10px;
+}
+
+.contact dd input,
+.contact dd textarea {
+  width: 100%;
+  border: solid 1px #c8c8c8;
+  padding: 10px;
+}
+.contact dd textarea {
+  height: 10rem;
+}
+
+.button {
+  text-align: center;
+}
+
+.button input {
+  width: 200px;
+  background-color: #23292e;
+  color: #fff;
+  padding:  15px 0;
+  border: #24292e;
+}
+
+.button input:hover {
+  background: #fff;
+  color: #24292e;
+}
+
+#footer {
+  background-color: #24292e;
+  color: #fff;
+  font-size: 0.5rem;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+
+
+
+
